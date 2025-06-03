@@ -2047,7 +2047,14 @@ https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/mediacorpenglish.png" group-title="SINGAPORE", MEDIACORP ENTERTAINMENT ENGLISH
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/mediacorptamil.png" group-title="SINGAPORE", MEDIACORP ENTERTAINMENT TAMIL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/mediacorpchinese.png" group-title="SINGAPORE", MEDIACORP ENTERTAINMENT CHINESE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/hitsnow.png" group-title="ENTERTAlNMENT",HITS NOW ID
@@ -2881,6 +2888,158 @@ https://fl3.moveonjoy.com/NICK_JR/tracks-v1a1/mono.m3u8
 https://fl1.moveonjoy.com/NICKTOONS/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-id="6452c814939a590008567a3b" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png" group-title="KIDS", 90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+
+#EXTINF:-1 tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" group-title="KIDS", Baby Shark TV
+https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
+
+#EXTINF:-1 tvg-id="60493283ffc52f000710edae" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="KIDS", Bebecito Bum y sus amigos
+https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
+
+#EXTINF:-1 tvg-id="66fedd65d7de140008dccd66" tvg-logo="https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png" group-title="KIDS", El Reino Infantil
+https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
+
+#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="KIDS", Forever Kids
+https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+
+#EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="KIDS", Garfield and Friends
+https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
+
+#EXTINF:-1 tvg-id="667f3852efa2a10008e1e514" tvg-logo="https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" group-title="KIDS", Go Go Gadget!
+https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
+
+#EXTINF:-1 tvg-id="60fafef7c2440500071266e0" tvg-logo="https://images.pluto.tv/channels/60fafef7c2440500071266e0/colorLogoPNG.png" group-title="KIDS", Grande-ish
+https://jmp2.uk/plu-60fafef7c2440500071266e0.m3u8
+
+#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="KIDS", Kartoon Channel!
+https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
+
+#EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="KIDS", Kids Movie Club
+https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
+
+#EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="KIDS", LEGO Kids TV
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+
+#EXTINF:-1 tvg-id="5eb301b7395671000780d100" tvg-logo="https://images.pluto.tv/channels/5eb301b7395671000780d100/colorLogoPNG.png" group-title="KIDS", Little Angel's Playroom
+https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
+
+#EXTINF:-1 tvg-id="51c75f7bb6f26ba1cd00002f" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="KIDS", Little Stars Universe
+https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
+
+#EXTINF:-1 tvg-id="65e23f340d4561000821540d" tvg-logo="https://images.pluto.tv/channels/65e23f340d4561000821540d/colorLogoPNG.png" group-title="KIDS", Mister Rogers' Neighborhood
+https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
+
+#EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="KIDS", Nick Jr. KIDS
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="KIDS", Nickelodeon en español
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+
+#EXTINF:-1 tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="KIDS", Nickelodeon KIDS
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="5db0ae5af8797b00095c0794" tvg-logo="https://images.pluto.tv/channels/5db0ae5af8797b00095c0794/colorLogoPNG.png" group-title="KIDS", No Parents Allowed
+https://jmp2.uk/plu-5db0ae5af8797b00095c0794.m3u8
+
+#EXTINF:-1 tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" group-title="KIDS", Peppa Pig
+https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
+
+#EXTINF:-1 tvg-id="5dae0a40e8ee0d000975e99b" tvg-logo="https://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" group-title="KIDS", pocket.watch Game-On
+https://jmp2.uk/plu-5dae0a40e8ee0d000975e99b.m3u8
+
+#EXTINF:-1 tvg-id="6675c7868768aa0008d7f1c7" tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" group-title="KIDS", Pokémon
+https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
+
+#EXTINF:-1 tvg-id="60fb028c2e6a0c00075275a5" tvg-logo="https://images.pluto.tv/channels/60fb028c2e6a0c00075275a5/colorLogoPNG.png" group-title="KIDS", Rainbow Squad
+https://jmp2.uk/plu-60fb028c2e6a0c00075275a5.m3u8
+
+#EXTINF:-1 tvg-id="5fb584b7613a31000789de5a" tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" group-title="KIDS", Ryan and Friends
+https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
+
+#EXTINF:-1 tvg-id="667f393836a2f90008fd17c0" tvg-logo="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG.png" group-title="KIDS", Strawberry Shortcake and Friends
+https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8
+
+#EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png" group-title="KIDS", Team Spirit
+https://jmp2.uk/plu-60f9ebb06f0b3d000746fbdb.m3u8
+
+#EXTINF:-1 tvg-id="6450209d939a5900084dba1d" tvg-logo="https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png" group-title="KIDS", Totally Teen
+https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
+
+#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="KIDS", TOTALLY TURTLES
+https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
+
+#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="KIDS", Transformers TV
+https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
+
+#EXTINF:-1 tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" group-title="KIDS", Zoom! Zoom!
+https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+
+
+#EXTINF:-1 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" group-title="KIDS", TokuSHOUTsu
+https://jmp2.uk/plu-5c3f8f12a93c2d61b9990a4e.m3u8
+
+
+#EXTINF:-1 tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://images.pluto.tv/channels/6532e7fa045c3d0008514ca7/colorLogoPNG.png" group-title="KIDS", Warner Bros. TV Sweet Escapes
+https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8
+
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="KIDS", Anime All Day
+https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
+
+#EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" group-title="KIDS", Crunchyroll
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+
+#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG-1731951032051.png" group-title="KIDS", Lupin the 3rd
+https://jmp2.uk/plu-60f74ba51c82ac000776c669.m3u8
+
+#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="KIDS", Naruto
+https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
+
+#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" group-title="KIDS", One Piece
+https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
+
+#EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="KIDS", Sailor Moon
+https://jmp2.uk/plu-637e55347427a40007fac703.m3u8
+
+#EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="KIDS", Yu-Gi-Oh!
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kidstv.png",FAST TV KIDS 1
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=31
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kidstv.png",FAST TV KIDS 2
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kidstv.png",FAST TV KIDS 3
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kidstv.png",FAST TV KIDS 4
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kidstv.png",FAST TV KIDS 5
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=40
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kidstv.png",FAST TV KIDS 6
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=41
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kidstv.png",FAST TV KIDS 7
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=142
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=157
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kidstvpng",FAST TV KIDS 8
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.08.27
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
+
+
 
 
 
@@ -2972,7 +3131,104 @@ http://cord-cutter.net:8080/live/23290078/13941299/53698.ts
 SPORTS
 #######
 
-#EXTINF:-1 tvg-id="Horizon.Sports.distro" group-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sports.png" ch-number="790" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/horizonsports.png",790 HORIZON SPORTS 
+#EXTINF:-1 tvg-id="CANAL+.1.HD.pl" tvg-name="CANAL+.1.HD.pl" group-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sports.png"  tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/c+sport.png" group-title="SPORTS",CANAL+ SPORT 1
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" tvg-name="CANAL+.Sport.2.HD.pl" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/c+sport2.png" group-title="SPORTS",CANAL+ SPORT 2
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" tvg-name="CANAL+.Sport.3.HD.pl" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/c+sport3.png" group-title="SPORTS",CANAL+ SPORT 3
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium488/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.4.HD.pl" tvg-name="CANAL+.Sport.4.HD.pl" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/c+sport4.png" group-title="SPORTS",CANAL+ SPORT 4
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium489/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" tvg-name="CANAL+.Sport.5.HD.pl" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/c+sport5.png" group-title="SPORTS",CANAL+ SPORT 5
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/beinmax4.png" group-title="SPORTS",beIN Sports MAX 4 France
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/beiax5.png" group-title="SPORTS",beIN Sports MAX 5 France
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/beinmax6.png" group-title="SPORTS",beIN Sports MAX 6 France
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/beinmax7.png" group-title="SPORTS",beIN Sports MAX 7 France
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/beinmax8.png" group-title="SPORTS",beIN Sports MAX 8 France
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/beinmax9.png" group-title="SPORTS",beIN Sports MAX 9 France
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/beinmax10.png" group-title="SPORTS",beIN Sports MAX 10 France
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/eurosport.png" group-title="SPORTS",Eurosport 1 France
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/eurosport.png" group-title="SPORTS",Eurosport 2 France
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/skysports.png" group-title="SPORTS",Sky Sports F1 DE
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://windnew.newkso.ru/wind/premium274/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="SPORTS",DAZN 1 Bar DE
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="SPORTS",DAZN 2 Bar DE
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/uae.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="UAE",Dubai Sports 1 UAE
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://dokko1new.newkso.ru/dokko1/premium604/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="UAE",Dubai Sports 2 UAE
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://dokko1new.newkso.ru/dokko1/premium605/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="UAE",Dubai Sports 3 UAE
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://dokko1new.newkso.ru/dokko1/premium606/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="UAE",Dubai Racing 1 UAE
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="UAE",Dubai Racing 2 UAE
+#EXTVLCOPT:http-origin=https://newembedplay.xyz/
+#stream-608|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+#EXTINF:-1 tvg-id="Horizon.Sports.distro" ch-number="790" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/horizonsports.png",790 HORIZON SPORTS 
 #EXTGRP:SPORTS
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
