@@ -660,7 +660,8 @@ CODE:403-FORBIDDEN
 
 #EXTM3U x-tvg-url="https://tunebox.space/epgsooka, https://tunebox.space/epgunifi, https://tunebox.space/epgastro, https://tunebox.space/epgrtm, https://tunebox.space/epgindo, https://tunebox.space/epgsg, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
-#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysia.png" group-title="MALAYSlA",101 TV1
+
+#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv1.png" group-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/malaysia.png" group-title="MALAYSlA",101 TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
