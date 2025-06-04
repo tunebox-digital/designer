@@ -3047,7 +3047,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=198
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/57380.ts
 
-#EXTINF:0 ch-number="91" tvg-name="CARTOON NETWORK (E)" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cartoonnetwork.png" group-title="KlDS",CARTOON NETWORK (E)
+#EXTINF:0 ch-number="91" tvg-name="CARTOON NETWORK " tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cartoonnetwork.png" group-title="KlDS",CARTOON NETWORK 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/57356.ts
 
@@ -3071,7 +3071,7 @@ http://cord-cutter.net:8080/live/23290078/13941299/57346.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/47349.ts
 
-#EXTINF:0 ch-number="217" tvg-name="TELETOON EAST (E)" tvg-id="Tele.Top.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/teletoon.png" group-title="KlDS",TELETOON EAST (E)
+#EXTINF:0 ch-number="217" tvg-name="TELETOON EAST " tvg-id="Tele.Top.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/teletoon.png" group-title="KlDS",TELETOON EAST 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/57372.ts
 
@@ -3153,42 +3153,56 @@ https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8|referer=https://newembedplay
 
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax4.png" group-title="SPORTS",beIN Sports MAX 4 France
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax4.png" group-title="SPORTS",BEIN SPORTS MAX 4 FRANCE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium494/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax5.png" group-title="SPORTS",beIN Sports MAX 5 France
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax5.png" group-title="SPORTS",BEIN SPORTS MAX 5 FRANCE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium495/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax6.png" group-title="SPORTS",beIN Sports MAX 6 France
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax6.png" group-title="SPORTS",BEIN SPORTS MAX 6 FRANCE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium496/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax7.png" group-title="SPORTS",beIN Sports MAX 7 France
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax7.png" group-title="SPORTS",BEIN SPORTS MAX 7 FRANCE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium497/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax8.png" group-title="SPORTS",beIN Sports MAX 8 France
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax8.png" group-title="SPORTS",BEIN SPORTS MAX 8 FRANCE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium498/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax9.png" group-title="SPORTS",beIN Sports MAX 9 France
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax9.png" group-title="SPORTS",BEIN SPORTS MAX 9 FRANCE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium499/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax10.png" group-title="SPORTS",beIN Sports MAX 10 France
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/beinmax10.png" group-title="SPORTS",BEIN SPORTS MAX 10 FRANCE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium500/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport1.png" group-title="SPORTS",Eurosport 1 France
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport1.png" group-title="SPORTS",EUROSPORT 1 FRANCE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport2.png" group-title="SPORTS",Eurosport 2 France
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport2.png" group-title="SPORTS",EUROSPORT 2 FRANCE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://ddy6new.newkso.ru/ddy6/premium773/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/eurosport.png",EUROSPORT ASIA ID
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+
+#EXTINF:0 ch-number="426" tvg-name="EUROSPORT 1 UK (P)" tvg-id="Eurosport.1.be" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/eurosport1.png" group-title="SPORTS",EUROSPORT 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/53713.ts
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3263,9 +3277,126 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
 
 
-#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",Sky Sports F1 DE
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORTS F1 DE
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://windnew.newkso.ru/wind/premium274/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+#EXTINF:0 ch-number="450" tvg-name="SKY SPORTS ARENA" tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skyarena.png" group-title="SPORTS",SKY SPORTS ARENA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/35238.ts
+
+#EXTINF:0 ch-number="452" tvg-name="SKY SPORTS GOLF FHD" tvg-id="Sky.Sport.Golf.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsgolf.png" group-title="SPORTS",SKY SPORTS GOLF FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/35240.ts
+
+#EXTINF:0 ch-number="453" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sktsportsmainevent.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/35243.ts
+
+#EXTINF:0 ch-number="455" tvg-name="SKY SPORTS NEWS" tvg-id="Sky.Sport.News.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsnews.png" group-title="SPORTS",SKY SPORTS NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/35241.ts
+
+#EXTINF:0 ch-number="460" tvg-name="SKY SPORTS CRICKET FHD (D)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportscricket.png" group-title="SPORTS",SKY SPORTS CRICKET FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/45940.ts
+
+#EXTINF:0 ch-number="461" tvg-name="SKY SPORTS F1 FHD" tvg-id="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORTS F1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/35244.ts
+
+#EXTINF:0 ch-number="462" tvg-name="SKY SP RACING FHD" tvg-id="SkyRacing1.au" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsracing.png" group-title="SPORTS",SKY SPORTS RACING FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/76842.ts
+
+
+#EXTINF:0 ch-number="449" tvg-name="SKY SPORTS ACTION" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsaction.png" group-title="SPORTS",SKY SPORTS ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/53705.ts
+
+
+#EXTINF:0 ch-number="454" tvg-name="SKY SPORTS MIX FHD (D)" tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsmix.png" group-title="SPORTS",SKY SPORTS MIX FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/53706.ts
+
+
+#EXTINF:0 CUID="1869" tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn1.png" group-title="SPORTS",TSN1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl5.moveonjoy.com/TSN_1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 CUID="1870" tvg-name="TSN2" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn2.png" group-title="SPORTS",TSN2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl5.moveonjoy.com/TSN_2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 CUID="1871" tvg-name="TSN3" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn3.png" group-title="SPORTS",TSN3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl5.moveonjoy.com/TSN_3/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 CUID="1872" tvg-name="TSN4" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn4.png" group-title="SPORTS",TSN4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl5.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 CUID="1873" tvg-name="TSN5" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn5.png" group-title="SPORTS",TSN5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl5.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 ch-number="1767" tvg-name="AT&T SPORTSNET PITTSBURGH" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",AT&T SPORTSNET PITTSBURGH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/108178.ts
+
+
+
+#EXTINF:0 ch-number="5263" tvg-name="AT&T SPORTSNET SOUTHWEST (F)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",AT&T SPORTSNET SOUTHWEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/136909.ts
+
+
+#EXTINF:0 ch-number="665" tvg-name="SPORTSNET NEW YORK" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET NEW YORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/20938.
+
+
+
+
+#EXTINF:0 ch-number="79" tvg-name="SPORTSNET EAST (D)" tvg-id="Sportsnet+.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET EAST (D)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/41836.ts
+
+#EXTINF:0 ch-number="80" tvg-name="SPORTSNET ONE " tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET ONE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/1024_7.ts
+
+
+#EXTINF:0 ch-number="203" tvg-name="SPORTSNET 360 HD" tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET 360 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/2219.ts
+
+#EXTINF:0 ch-number="210" tvg-name="SPORTSNET ONTARIO " tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET ONTARIO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/11649.ts
+
+#EXTINF:0 ch-number="211" tvg-name="SPORTSNET PACIFIC " tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET PACIFIC 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/9860.ts
+
+#EXTINF:0 ch-number="213" tvg-name="SPORTSNET WEST " tvg-id="Sportsnet+.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET WEST 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/20975.ts
+
+#EXTINF:0 ch-number="215" tvg-name="SPORTSNET WORLD HD" tvg-id="Sportsnet.World.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET WORLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/75675.ts
+
+#EXTINF:0 CUID="1861" tvg-name="SPORTSNET NEW YORK" tvg-id="SportsNetNewYork.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET NEW YORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl3.moveonjoy.com/SNY/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 CUID="1779" tvg-name="CBS SPORTS NETWORK USA" tvg-id="Sportsnet.World.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cbssportsnetwork.png" group-title="SPORTS",CBS SPORTS NETWORK USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="dummy" tvg-name="dummy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn1.png" group-title="SPORTS",DAZN 1 Bar DE
@@ -3294,6 +3425,31 @@ https://dokko1new.newkso.ru/dokko1/premium606/mono.m3u8|referer=https://newembed
 #EXTVLCOPT:http-origin=https://newembedplay.xyz/
 https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8|referer=https://newembedplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+#EXTINF:0 ch-number="501" tvg-name="ESPN SEC NETWORK" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espnsecnetwork.png" group-title="SPORTS",ESPN SEC NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/17608.ts
+
+#EXTINF:0 CUID="1797" tvg-name="ESPN U" tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espnu.png" group-title="SPORTS",ESPN U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 ch-number="293" tvg-name="CARIB ESPN" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/caribespn.png" group-title="SPORTS",CARIB ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/66372.ts
+
+
+#EXTINF:0 ch-number="567" tvg-name="ESPN 2" tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espn2.png" group-title="SPORTS",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/2210.ts
+
+#EXTINF:0 ch-number="569" tvg-name="ESPN 1 (HD)" tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espn1.png" group-title="SPORTS",ESPN 1 (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/9802.ts
+
+#EXTINF:0 ch-number="570" tvg-name="ESPNU COLLEGE SPORTS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espncollegesports.png" group-title="SPORTS",ESPNU COLLEGE SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://cord-cutter.net:8080/live/23290078/13941299/10255.ts
 
 
 #EXTINF:-1 tvg-id="Horizon.Sports.distro" ch-number="790" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/horizonsports.png",790 HORIZON SPORTS 
@@ -3316,13 +3472,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/ACC_NETWORK/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1779" tvg-name="CBS SPORTS NETWORK USA" tvg-id="Sportsnet.World.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/cbssportsnetwork.png" group-title="SPORTS",CBS SPORTS NETWORK USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1797" tvg-name="ESPN U" tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espnu.png" group-title="SPORTS",ESPN U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:0 CUID="1826" tvg-name="MLB NETWORK" tvg-id="MLB.Network.Canada.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mlbnetwork.png" group-title="SPORTS",MLB NETWORK
@@ -3353,108 +3505,26 @@ https://fl3.moveonjoy.com/NHL_NETWORK/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1861" tvg-name="SPORTSNET NEW YORK" tvg-id="SportsNetNewYork.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET NEW YORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/SNY/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:0 CUID="1868" tvg-name="TENNIS CHANNEL" tvg-id="Tennis.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tennischannel.png" group-title="SPORTS",TENNIS CHANNEL USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1869" tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn1.png" group-title="SPORTS",TSN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl5.moveonjoy.com/TSN_1/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1870" tvg-name="TSN2" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn2.png" group-title="SPORTS",TSN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl5.moveonjoy.com/TSN_2/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 CUID="1871" tvg-name="TSN3" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn3.png" group-title="SPORTS",TSN3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl5.moveonjoy.com/TSN_3/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 CUID="1872" tvg-name="TSN4" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn4.png" group-title="SPORTS",TSN4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl5.moveonjoy.com/TSN_4/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 CUID="1873" tvg-name="TSN5" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tsn5.png" group-title="SPORTS",TSN5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl5.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 CUID="1772" tvg-name="BIG TEN NETWORK" tvg-id="Big.Ten.Network.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/big10network.png" group-title="SPORTS",BIG TEN NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://fl3.moveonjoy.com/BIG_TEN_NETWORK/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 CUID="1823" tvg-name="MAV TV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mavtv.png" group-title="SPORTS",MAV TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fl3.moveonjoy.com/MAV_TV/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:0 ch-number="79" tvg-name="SPORTSNET EAST (D)" tvg-id="Sportsnet+.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET EAST (D)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/41836.ts
-
-#EXTINF:0 ch-number="80" tvg-name="SPORTSNET ONE (E)" tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET ONE (E)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/1024_7.ts
-
-
-#EXTINF:0 ch-number="203" tvg-name="SPORTSNET 360 HD" tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET 360 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/2219.ts
-
-#EXTINF:0 ch-number="210" tvg-name="SPORTSNET ONTARIO (FHD)" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET ONTARIO (FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/11649.ts
-
-#EXTINF:0 ch-number="211" tvg-name="SPORTSNET PACIFIC (FHD)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET PACIFIC (FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9860.ts
-
-#EXTINF:0 ch-number="213" tvg-name="SPORTSNET WEST (FHD)" tvg-id="Sportsnet+.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET WEST (FHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/20975.ts
-
-#EXTINF:0 ch-number="215" tvg-name="SPORTSNET WORLD HD" tvg-id="Sportsnet.World.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET WORLD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/75675.ts
-
-
-#EXTINF:0 ch-number="293" tvg-name="CARIB ESPN" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/caribespn.png" group-title="SPORTS",CARIB ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/66372.ts
 
 #EXTINF:0 ch-number="303" tvg-name="BALLY SPORTS FLORIDA (A)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/ballysportsflorida.png" group-title="SPORTS",BALLY SPORTS FLORIDA (A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/46794.ts
 
-#EXTINF:0 ch-number="450" tvg-name="SKY SPORTS ARENA" tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skyarena.png" group-title="SPORTS",SKY SPORTS ARENA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35238.ts
-
-#EXTINF:0 ch-number="452" tvg-name="SKY SPORTS GOLF FHD" tvg-id="Sky.Sport.Golf.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsgolf.png" group-title="SPORTS",SKY SPORTS GOLF FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35240.ts
-
-#EXTINF:0 ch-number="453" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sktsportsmainevent.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35243.ts
-
-#EXTINF:0 ch-number="455" tvg-name="SKY SPORTS NEWS" tvg-id="Sky.Sport.News.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsnews.png" group-title="SPORTS",SKY SPORTS NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35241.ts
-
-#EXTINF:0 ch-number="460" tvg-name="SKY SPORTS CRICKET FHD (D)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportscricket.png" group-title="SPORTS",SKY SPORTS CRICKET FHD (D)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/45940.ts
-
-#EXTINF:0 ch-number="461" tvg-name="SKY SPORTS F1 FHD" tvg-id="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORTS F1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/35244.ts
-
-#EXTINF:0 ch-number="462" tvg-name="SKY SP RACING FHD" tvg-id="SkyRacing1.au" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsracing.png" group-title="SPORTS",SKY SP RACING FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/76842.ts
 
 #EXTINF:0 ch-number="474" tvg-name="WWE NETWORK" tvg-id="Home.Network.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/wwenetwork.png" group-title="SPORTS",WWE NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -3480,9 +3550,10 @@ http://cord-cutter.net:8080/live/23290078/13941299/65698.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/21089.ts
 
-#EXTINF:0 ch-number="501" tvg-name="ESPN SEC NETWORK" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espnsecnetwork.png" group-title="SPORTS",ESPN SEC NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17608.ts
+
+
+
+
 
 #EXTINF:0 ch-number="504" tvg-name="TENNIS CHANNEL" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tennischannel.png" group-title="SPORTS",TENNIS CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -3492,23 +3563,7 @@ http://cord-cutter.net:8080/live/23290078/13941299/20184.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/57972.ts
 
-#EXTINF:0 ch-number="517" tvg-name="ACC NETWORK (A)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/accnetwork.png" group-title="SPORTS",ACC NETWORK (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9273.ts
 
-
-
-#EXTINF:0 ch-number="567" tvg-name="ESPN 2" tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espn2.png" group-title="SPORTS",ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/2210.ts
-
-#EXTINF:0 ch-number="569" tvg-name="ESPN 1 (HD)" tvg-id="ESPN.2.br" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espn1.png" group-title="SPORTS",ESPN 1 (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/9802.ts
-
-#EXTINF:0 ch-number="570" tvg-name="ESPNU COLLEGE SPORTS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espncollegesports.png" group-title="SPORTS",ESPNU COLLEGE SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/10255.ts
 
 #EXTINF:0 ch-number="574" tvg-name="FOX SPORTS 1" tvg-id="FoxSports503.alt.au" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/foxsports1.png" group-title="SPORTS",FOX SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -3530,9 +3585,9 @@ http://cord-cutter.net:8080/live/23290078/13941299/21090.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/9806.ts
 
-#EXTINF:0 ch-number="665" tvg-name="SPORTSNET NEW YORK (SNY) (A)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",SPORTSNET NEW YORK (SNY) (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/20938.ts
+
+
+
 
 #EXTINF:0 ch-number="692" tvg-name="TVG NETWORK" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/tvgnetwork.png" group-title="SPORTS",TVG NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -3547,29 +3602,10 @@ http://cord-cutter.net:8080/live/23290078/13941299/18940.ts
 http://cord-cutter.net:8080/live/23290078/13941299/85232.ts
 
 
-#EXTINF:0 ch-number="1767" tvg-name="AT&T SPORTSNET PITTSBURGH" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",AT&T SPORTSNET PITTSBURGH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/108178.ts
-
 #EXTINF:0 ch-number="524_7" tvg-name="ONE SOCCER" tvg-id="One.Soccer.ca" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/onesoccer.png" group-title="SPORTS",ONE SOCCER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/135810.ts
 
-#EXTINF:0 ch-number="5263" tvg-name="AT&T SPORTSNET SOUTHWEST (F)" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sportsnet.png" group-title="SPORTS",AT&T SPORTSNET SOUTHWEST (F)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/136909.ts
-
-#EXTINF:0 ch-number="5273" tvg-name="SKY SPORTS ARENA FHD" tvg-id="Sky.Sports+.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsarena.png" group-title="SPORTS",SKY SPORTS ARENA FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/137719.ts
-
-#EXTINF:0 ch-number="5274" tvg-name="SKY SPORTS MAIN EVENT HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/sktsportsmainevent.png" group-title="SPORTS",SKY SPORTS MAIN EVENT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/137720.ts
-
-#EXTINF:0 ch-number="302" tvg-name="FOX SPORTS 1" tvg-id="FoxSports503.alt.au" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/foxsports1.png" group-title="SPORTS",FOX SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/46792.ts
 
 #EXTINF:0 ch-number="439" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/mutv.png" group-title="SPORTS",MUTV
 #KODIPROP:contentlookup=False
@@ -3579,21 +3615,6 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:0 ch-number="443" tvg-name="RACING UK" tvg-id="Racing.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/racingtv.png" group-title="SPORTS",RACING UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/53741.ts
-
-#EXTINF:0 ch-number="449" tvg-name="SKY SPORTS ACTION" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsaction.png" group-title="SPORTS",SKY SPORTS ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53705.ts
-
-#EXTINF:0 ch-number="451" tvg-name="SKY SPORTS F1 FHD (D)" tvg-id="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORTS F1 FHD (D)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53704.ts
-
-#EXTINF:0 ch-number="454" tvg-name="SKY SPORTS MIX FHD (D)" tvg-id="Sky.Sport.Mix.de" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/skysportsmix.png" group-title="SPORTS",SKY SPORTS MIX FHD (D)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53706.ts
-
-
-
 
 
 
@@ -5558,10 +5579,6 @@ http://cord-cutter.net:8080/live/23290078/13941299/77166.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/134942.ts
 
-#EXTINF:0 ch-number="485" tvg-name="ESPN NEWS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/espnnews.png" group-title="NEWS",ESPN NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/17707.ts
-
 
 
 
@@ -5699,9 +5716,7 @@ http://cord-cutter.net:8080/live/23290078/13941299/53660.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cord-cutter.net:8080/live/23290078/13941299/53672.ts
 
-#EXTINF:0 ch-number="426" tvg-name="EUROSPORT 1 UK (P)" tvg-id="Eurosport.1.be" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/eurosport1.png" group-title="LlFESTYLE",EUROSPORT 1 UK (P)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://cord-cutter.net:8080/live/23290078/13941299/53713.ts
+
 
 #EXTINF:0 ch-number="431" tvg-name="ITV" tvg-id="ITV.ch" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/itv.png" group-title="LlFESTYLE",ITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -5984,7 +5999,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/136/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/129/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="870.astro" tvg-name="V.FM" ch-number="870" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sabahvfm.png" group-title="RADlO",V FM
+#EXTINF:-1 tvg-id="870.astro" tvg-name="V.FM" ch-number="870" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vfm.png" group-title="RADlO",V FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V9QpBgepo6Fj3gc4j831jQ", "kid":"7U3HtuIiXEVjTp1jJyqbEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -6038,7 +6053,7 @@ https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
 #EXTINF:-1 group-title="RADlO" tvg-id="Best FM" tvg-name="Best Fm" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/bestfm.png",BEST FM
 https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
  
-#EXTINF:-1 group-title="RADlO" tvg-id="Kool FM" tvg-name="Kool 101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kool101.png",KOOL 101
+#EXTINF:-1 group-title="RADlO" tvg-id="Kool FM" tvg-name="Kool 101" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/koolfm.png",KOOL 101
 https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8
 
 
@@ -6123,14 +6138,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/Icon/refs/heads/main/eurosport.png",EUROSPORT ASIA ID
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
-
 
 
 
