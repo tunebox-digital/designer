@@ -1,0 +1,2261 @@
+CODE-403:FORBIDDEN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U vod_library="https://tunebox.shop/errorvod" refresh="3600" max-conn="1" billed-msg="LANGGANAN BOLEH DIBUAT MELALUI WHATSAPP ATAU TELEGRAM TUNEBOX DIGITAL DI 011 3109 2605"
+
+MALAYSIA
+#########
+
+
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="MALAYSIA" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/malaysialogo3.png" ch-number="100" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tunebox.png",100 TUNEBOX DIGITAL INFO
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmtv1.png" group-title="MALAYSIA",101 TV1
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="102.astro" ch-number="102" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmtv2.png" group-title="MALAYSIA",102 TV2
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tv3.png",103 TV3
+#EXTVLCOPT: Host=tonton-live-switch-ssar.akamaized.net
+#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
+#EXTVLCOPT: http-referrer=https://tonton-live-sg3.akamaized.net
+https://tunebox.space/error401
+
+
+
+
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+
+#EXTINF:-1 ch-number="104" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ria.png" tvg-id="104.astro",104 RIA https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/prima.png" group-title="MALAYSIA",105 PRIMA 
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="106.astro" ch-number="106" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/oasis.png" group-title="MALAYSIA", 106 OASIS
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" ch-number="107" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmfitrah.png" group-title="MALAYSIA",107 FITRAH
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 ch-number="108" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/citra.png" tvg-id="108.astro",108 CITRA
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+
+#EXTINF:-1 tvg-id="128.unifi" ch-number="109" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/duniasinema.png",109 DUNIA SINEMA
+#KODIPROP:lnputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:lnputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://tunebox.space/error401
+
+
+
+
+#EXTINF:-1 tvg-id="121.unifi" ch-number="110" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/siar.png",110 SIAR
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="427388" ch-number="111" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmroll.png" group-title="MALAYSIA",111 ROLL
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="427698" ch-number="112" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmsnap.png" group-title="MALAYSIA",112 SNAP
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/salam.png" group-title="MALAYSIA",113 SALAM HD
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="114.astro" ch-number="114" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvalhijrah.png" group-title="MALAYSIA",114 TV AL-HIJRAH
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="religious.dummy.us" ch-number="115" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvikim.png" group-title="MALAYSIA",115 TVIKIM
+https://tunebox.space/error401
+
+#EXTINF:-1 tvg-id="TV6" ch-number="116" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmtv6.png" group-title="MALAYSIA",116 TV6
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="147.astro" ch-number="117" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ntv7.png",117 DIDIKTV KPM
+#KODIPROP:lnputstream.adaptive.license_type=clearkey 
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary"
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="148.astro" ch-number="148" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/8tv.png",118 8TV
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="149.astro" ch-number="119" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tv9.png",119 TV9
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+#EXTVLCOPT: http-referrer=https://playtv.unifi.com.my
+https://tunebox.space/error401
+
+
+
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="118.unifi" ch-number="120" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/inspirasi.png",120 INSPIRASI
+https://tunebox.space/error401
+
+#EXTINF:-1 tvg-id="424781" ch-number="121" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/lead.png" group-title="MALAYSIA",121 RTM LEAD
+https://tunebox.space/error401
+
+
+
+
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+
+#EXTINF:-1 tvg-id="122.astro" ch-number="122" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvs.png",122 TVS
+https://tunebox.space/error401
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="123" tvg-id="TVS+.my" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/tvs+.png",123 TVS+
+#EXTGRP:MALAYSIA
+#EXTVLCOPT: network-caching=1000
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="146.astro" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmtvokey.png" ch-number="124" group-title="MALAYSIA", 124 TV OKEY
+https://tunebox.space/error401
+
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" ch-number="125" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmaura..png" group-title="MALAYSIA",125 RTM AUR
+https://tunebox.space/error401
+
+
+
+
+#EXTINF:-1 tvg-id="427980" ch-number="126" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/apetito.png" group-title="MALAYSIA",126 APETITO
+https://tunebox.space/error401
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="112.astro" ch-number="127" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rania.png",127 RANIA
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="113.astro" ch-number="128" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/aura.png" group-title="MALAYSIA",128 AURA
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="130" channel-id="JomNgaji" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/jomngaji.png",130 JOM NGAJI 
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+https://tunebox.space/error401
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="131" channel-id="FilemMantap" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/filemmantap.png",131 FILEM MANTAP
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+https://tunebox.space/error401
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="DramaHebat" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/dramahebat.png" ch-number="132",132 DRAMA HEBAT
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearke
+https://tunebox.space/error401
+
+
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="134" tvg-id="LawakSentral" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/lawaksentral.png",134 LAWAK SENTRAL
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+https://tunebox.space/error401
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="116.astro" ch-number="156" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/colorshindi.png" group-title="MALAYSIA",156 COLORS HINDI
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="Bollywood.HD.distro" group-title="MALAYSIA" ch-number="190" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bollywoodhd.png",190 BOLLYWOOD HD
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="Bollywood.Classic.distro" ch-number="192" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bollywoodclassic.png",192 BOLLYWOOD CLASSIC
+https://tunebox.space/error401
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="201.astro" ch-number="201" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/vaanavil.png",201 VAANAVIL
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+
+
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+https://tunebox.space/error401
+
+
+
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+
+#EXTINF:-1 tvg-id="202.astro" ch-number="202" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/vinmeen.png",202 VINMEEN
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="203.astro" ch-number="203" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/vellithirai.png",203 VELLITHIRAI
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+https://tunebox.space/error401
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 ch-number="211" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/suntv.png" group-title="MALAYSIA" tvg-id="211.astro",211 SUN TV
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+#EXTINF:-1 ch-number="212" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/sunmusic.png" group-title="MALAYSIA" tvg-id="212.astro", SUN MUSIC
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="214.astro" ch-number="214" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/adithya.png",214 ADITHYA 
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="215.astro" ch-number="215" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/sunnews.png",215 SUN NEWS
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rAh5IEchjKKgHyu9EtkFAQ", "kid":"ChccwbuQ94ggzyXMVfDuEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="216.astro" ch-number="216" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ktv.png",216 KTV
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c2SM66N1FkWSbUVCHIXZJw", "kid":"jnhjqOdwsNcuvkpoQ3tkEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="217.astro" ch-number="217" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/sunlife.png",217 SUN LIFE
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cmMEcIxCn2E+wtxTYZ1vdg", "kid":"4+G+lObBk/oheHzoQ122EA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="221.astro" ch-number="221" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/starvijay.png",221 STAR VIJAY
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="222.astro" ch-number="222" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/colorstamil.png" group-title="MALAYSIA",222 COLORS TAMIL
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="223.astro" ch-number="223" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/zeetamil.png",223 ZEE TAMIL 
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-number="241" tvg-id="241.astro" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/thangathirai.png",241 THANGATHIRAI 
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+https://tunebox.space/error401
+
+
+
+
+
+#EXTINF:-1 tvg-id="251.astro" ch-number="251" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/zeecinema.png" group-title="MALAYSIA",251 ZEE CINEMA
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="133" tvg-id="DramaHotpot" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/dramahotpot.png",290 DRAMA HOTPOT
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+https://tunebox.space/error401
+
+
+#EXTINF:-1 tvg-id="300.astro" ch-number="300" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/iqiyi.png" group-title="MALAYSIA",300 iQIYI
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="305.astro" ch-number="305" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvbclassic.png" group-title="MALAYSIA",305 TVB CLASSIC
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+
+
+
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+https://tunebox.space/error401
+https://tunebox.shop/aaaaa
+
+
+
+#EXTINF:-1 tvg-id="306.astro" ch-number="306" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/aec.png" group-title="MALAYSIA",306 AEC
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+https://tunebox.space/error401
+
+
+#EXTINF:-1 ch-number="308" tvg-id="308.astro" ch-number=308" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/qj.png",308 QUAN JIA 
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+https://tunebox.space/error401
+https://tunebox.shop/promo2
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="309.astro" ch-number="309" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/celestialmovies.png" group-title="MALAYSIA",309 CELESTIAL MOVIES 
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="310.astro" ch-number="310" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvbjade.png" group-title="MALAYSIA",310 TVB JADE
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y54aEi7RxkRffT/SFiNY8Q", "kid":"/hIZAZqfNs3vNHCI5ZLKEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+#EXTINF:-1 tvg-id="311.astro" ch-number="311" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/aod.png",311 AOD
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+https://tunebox.space/error401
+https://tunebox.shop/promo2
+
+
+
+
+#EXTINF:-1 tvg-id="316.astro" ch-number="316" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cti.png" group-title="MALAYSIA",316 CTI ASIA
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9anK3qI3KlLCuR+cJh/gpA", "kid":"1iZZjCq0UlN1Cdy4qG25EA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
+
+#EXTINF:-1 tvg-id="317.astro" ch-number="317" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvbentertainmentnews.png" group-title="MALAYSIA",317 TVB ENTERTAINMENT NEWS
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="319.astro" ch-number="319" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvbxinghe.png" group-title="MALAYSIA",319 TVB XING HE
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+
+#EXTINF:-1 tvg-id="320.astro" ch-number="320" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvbs.png" group-title="MALAYSIA",320 TVBS ASIA
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NG8PYMvXWR4a5yyliRV7sQ", "kid":"52qJoeI/j3uCj029wtCaEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+
+#EXTINF:-1 tvg-id="321.astro" ch-number="321" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ccm.png",321 CELESTIAL CLASSIC MOVIES
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Phoenix.Chinese.Channel.HD.my" ch-number="325" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/phoenixchinesechannel.png",325 PHOENIX CHINESE CHANNEL
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" 
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="326.astro" ch-number="326" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/phoenixinfonews.png",326 PHOENIX INFO NEWS
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+
+#EXTINF:-1 tvg-id="333.astro" ch-number="333" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/huaheedai.png",333 HUA HEE DAI
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="335.astro" ch-number="335" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cctv4.png" group-title="MALAYSIA",335 CCTV4
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hCVpDEhE+7AbXq5wa8L3xg","kid":"2xozj3HUAYb1mXywhbs/EA"}],"type":"temporary"}
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="Arirang" ch-number="351" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/arirang.png",351 ARIRANG TV
+#EXTVLCOPT: network-caching=1000
+https://tunebox.space/error401
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="392.astro" ch-number="392" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kbsworld.png" group-title="MALAYSIA",392 KBS WORLD
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+
+#EXTINF:-1 tvg-id="393.astro" ch-number="393" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/one.png" group-title="MALAYSIA",393 ONE
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="395.astro" ch-number="395" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvn.png" group-title="MALAYSIA",395 TVN
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1 tvg-id="396.astro" ch-number="396" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kplus.png" group-title="MALAYSIA", 396 K-PLUS
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="398.astro" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/nhkworldpremium.png" ch-number="398" group-title="MALAYSIA",398 NHK WORLD PREMIUM
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RLQjp33TSs4WLbNcuw+2ow", "kid":"mIF7FEvPGf0N3Kf+VM7hEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_ott.mpd
+
+#EXTINF:-1 tvg-id="401.astro" ch-number="401" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/hitsmovies.png",401 HITS MOVIES
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
+#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/boo.png" group-title="MALAYSIA" ch-number="404",404 BOO
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="411.astro" ch-number="411" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/hbo.png",411 HBO
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+
+#EXTINF:-1 tvg-id="412.astro" ch-number="412" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cinemax.png",412 CINEMAX
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="413.astro" ch-number="413" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/showcase.png" group-title="MALAYSIA", 413 SHOWCASE
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+#EXTINF:-1 tvg-id="414.astro" ch-number="414" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/hbofamily.png",414 HBO FAMILY
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="415.astro" ch-number="415" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/hbohits.png",415 HBO HITS
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="416.astro" ch-number="416" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvnmovies.png",416 TVN MOVIES
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="472.unifi" ch-number="471" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/animax.png",471 ANIMAX
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+
+#EXTINF:1 tvg-id="ANIPLUS.HD.sg" ch-number="472" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/aniplus.png" group-title="MALAYSIA",472 ANIPLUS HD
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+https://tunebox.space/error401
+http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/191846.ts
+
+
+
+#EXTINF:-1 tvg-id="Rock.Entertainment.id" ch-number="473" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rockentertainment.png" group-title="MALAYSIA",473 ROCK ENTERTAINMENT
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+https://tunebox.space/error401
+https://tunebox.shop/rrreee
+
+
+#EXTINF:-1 tvg-id="Rock.Action.id" ch-number="474" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rockaction.png" group-title="MALAYSIA",474 ROCK ACTION
+https://tunebox.space/error401
+https://tunebox.shop/rrraaa
+
+
+
+#EXTINF:-1 tvg-id="Dewan Negara" ch-number="480" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmdewannegara.png" group-title="MALAYSIA",480 DEWAN NEGARA
+https://tunebox.space/error401
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+
+#EXTINF:-1 tvg-id="Dewan Rakyat" ch-number="481" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmdewanrakyat.png" group-title="MALAYSIA",481 DEWAN RAKYAT
+https://tunebox.space/error401
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+
+#EXTINF:-1 tvg-id="NEWS.dummy.us" ch-number="482" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmasean.png" group-title="MALAYSIA",482 RTM ASEAN
+https://tunebox.space/error401
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+
+
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="500" tvg-id="Berita RTM" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/beritartm.png",CH500 BERITA RTM
+https://tunebox.space/error401
+https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/master.m3u8?id=5
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="501" tvg-id="501.astro" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/awani.png",CH501 AWANI
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="502.astro" ch-number="502" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bernama.png",BERNAMA
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OaJ6osyEoptmX8xNv5xUtg", "kid":"FAa78hjKFPlnA0/PSr93EA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
+#EXTINF:-1 tvg-id="503.astro" ch-number="503" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cgtn.png", CGTN
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
+
+#EXTINF:-1 tvg-id="511.astro" ch-number="511" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cnn.png", CNN
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://tunebox.space/error401
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="512.astro" ch-number="512" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bbcworldnews.png" group-title="MALAYSIA", BBC WORLD NEWS
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="513.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/aljazeera.png" ch-number="513",AL-JAZEERA ENGLISH
+#EXTVLCOPT: network-caching=1000
+https://tunebox.space/error401
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+
+#EXTINF:-1 tvg-id="514.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/skynews.png" ch-number="514", SKY NEWS
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sNrddLcT5LKf0n4UfK5xMw", "kid":"S+9/wby2vX8ofe+UDjjLEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="515.astro" ch-number="515" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cna.png",CNA
+#EXTVLCOPT: network-caching=1000
+https://tunebox.space/error401
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="516.astro" ch-number="516" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cnbc.png", CNBC ASIA
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="517.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bloomberg.png" ch-number="517", BLOOMBERG TV
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
+
+#EXTINF:-1 tvg-id="518.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/abcaustralia.png" ch-number="518", ABC AUSTRALIA
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mb18H/I5EkS05A4IvvEQnQ", "kid":"ap/ML5QljO4PIQhofELnEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="521.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/dw.png" ch-number="521",DW ENGLISH
+#EXTVLCOPT: network-caching=1000
+https://tunebox.space/error401
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="522.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/france24.png" ch-number="522", FRANCE24
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="550.astro" ch-number="550" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/lovenature.png",LOVE NATURE
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="551.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/globaltrekker.png" ch-number="551", GLOBAL TREKKER
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="552.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/discoverychannel.png",DISCOVERY CHANNEL
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="553.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/discoveryasia.png" ch-number="553", DISCOVERY ASIA
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="554.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bbcearth.png" ch-number="554", BBC EARTH
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+
+#EXTINF:-1 tvg-id="555.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/history.png" ch-number="555", HISTORY
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="556.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/animalplanet.png" ch-number="556", ANIMAL PLANET
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=d5199f1513a0286e038dae8f7d820010:4d4d4d9dc41be43f528a4940cf66f14c
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="603.astro" ch-number="603" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tutortv.png" group-title="MALAYSIA", TUTOR TV
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="kids.dummy.us" ch-number="610" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/rtmjr.png" group-title="MALAYSIA",610 JUNIOR
+https://tunebox.space/error401
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
+
+
+
+
+
+#EXTINF:-1 tvg-id="611.astro" ch-number="611" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ceria.png", CERIA
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Dreamworks.HD.id" ch-number="612" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/dreamworks.png" group-title="MALAYSIA",DREAMWORKS
+#EXTVLCOPT: http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
+https://tunebox.space/error401
+https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="613" tvg-id="OhMyCeria" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ohmyceria.png",613 OH MY CERIA! 
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+https://tunebox.space/error401
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+
+
+
+
+#EXTINF:-1 tvg-id="615.astro" ch-number="615" group-title="MALAYSIA" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cartoonnetwork.png",615 CARTOON NETWORK
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="616.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/nickelodeon.png" ch-number="616",616 NICKELODEON
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+
+#EXTINF:-1 tvg-id="617.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/nickjr.png" ch-number="617",617 NICK JR.
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="618.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/moonbuga.png" ch-number="618",618 MOONBUG
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="400446" ch-number="619" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/blippi.png",619 BLIPPI & FRIENDS
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="620.astro" ch-number="620" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cbeebies.png",620 CBEEBIES
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
+
+
+
+
+
+
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="MALAYSIA" ch-number=621" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/petclub.png" tvg-id="PetClub",621 PET CLUB
+https://tunebox.space/error401
+https://tunebox.shop/promo2
+
+
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="MALAYSIA" ch-number=622" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/jellyjamworld.png" tvg-id="JellyJammWorld",622 JELLY JAM WORLD
+https://tunebox.space/error401
+https://tunebox.shop/promo2
+
+
+
+#EXTINF:-1 ch-number="701" tvg-id="701.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/axn.png",701 AXN
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="702.astro" ch-number="702" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/hitsnow.png",702 HITS NOW
+#EXTVLCOPT: http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+#KODIPROP:lnputstream.adaptive.license_type=clearkey 
+#KODIPROP:lnputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059 
+https://tunebox.space/error401
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd 
+
+
+#EXTINF:-1 tvg-id="703.astro" ch-number="703" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/lifetime.png",703 LIFETIME
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="705" tvg-id="Infamoustv" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/infamoustv.png",705 INFAMOUSTV
+https://tunebox.space/error401
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 tvg-id="706.astro" ch-number="706" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/hits.png",706 HITS
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="707.astro" ch-number="707" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tlc.png",707 TLC
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="708.astro" ch-number="708" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/foodnetwork.png",708 FOOD NETWORK
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="709.astro" ch-number="709" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/asiafoodnetwork.png",709 ASIAN FOOD NETWORK
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="710" tvg-id="TravelandTaste" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/travel&taste.png",710 TRAVEL&TASTE
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+https://tunebox.space/error401
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="711" tvg-id="Tastemade" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tastemade.png",711 TASTEMADE
+https://tunebox.space/error401
+https://tunebox.shop/promo2
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="712.astro" ch-number="712" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/warnertv.png",712 WARNER TV
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="713" tvg-id="gustotv" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/gustotv.png",713 GUSTOTV
+https://tunebox.space/error401
+https://tunebox.shop/promo2
+
+
+#EXTINF:-1 tvg-id="714.astro" group-title="MALAYSIA" ch-number="714" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/crime&investigation.png",714 CRIME & INVESTIGATION
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+
+#EXTINF:-1 tvg-id="715.astro" ch-number="715" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/hgtv.png",715 HGTV
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+
+#EXTINF:-1 tvg-id="716.astro" ch-number="716" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/dmax.png",716 DMAX
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=0e21da304a29298ceca1fdfd1e71e210:87de38cf3ed2bbcd5d89b63e571bfe21
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+
+#EXTINF:-1 tvg-id="717.astro" ch-number="717" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bbclifestyle.png",717 BBC LIFESTYLE
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
+
+#EXTINF:-1 tvg-id="718.astro" ch-number="718" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/mtvlive.png",718 MTV LIVE
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="Horizon.Sports.distro" ch-number="790" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/horizonsports.png",790 HORIZON SPORTS 
+#EXTGRP:MALAYSIA
+#EXTVLCOPT: network-caching=1000
+https://tunebox.space/error401
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+
+#EXTINF:-1 tvg-id="Redbull.Dummy.us" ch-number="791" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/redbulltv.png",791 RED BULL TV
+#EXTGRP:MALAYSIA
+#EXTVLCOPT: network-caching=1000
+https://tunebox.space/error401
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="MotorRacing.distro" ch-number="792" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/motorracing.png",792 MOTORRACING TV
+#EXTGRP:MALAYSIA
+#EXTVLCOPT: network-caching=1000
+https://tunebox.space/error401
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Sukan RTM" ch-number="800" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/sukanrtm.png" group-title="MALAYSIA",800 SUKAN RTM
+https://tunebox.space/error401
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="801.astro" ch-number="801" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/arena.png" group-title="MALAYSIA",801 ARENA
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="802.astro" ch-number="802" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/arena2.png" group-title="MALAYSIA",802 ARENA 2
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+
+
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
+
+#EXTINF:-1 tvg-id="803.astro" ch-number="803" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/arenabola.png" group-title="MALAYSIA",803 ARENA BOLA 
+https://tunebox.space/error401
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="804.astro" ch-number="804" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/arenabola.png" group-title="MALAYSIA",804 ARENA BOLA 2
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+https://tunebox.space/error401
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="805.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/sportsuhd.png",805 SUPERSPORT UHD
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
+
+
+
+
+
+
+#EXTINF:-1 ch-number="810" tvg-id="810.astro" group-title="MALAYSIA" ‎ tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/grandstand.png",810 GRANDSTAND
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+https://tunebox.space/error401
+
+
+
+
+
+#EXTINF:-1 tvg-id="811.astro" ch-number="811" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/premierleague.png" group-title="MALAYSIA",811 PREMIER LEAGUE
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
+https://tunebox.space/error401
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="812.astro" ch-number="812" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/premierleague2.png" group-title="MALAYSIA",812 PREMIER LEAGUE 2
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
+https://tunebox.space/error401
+
+
+
+
+#EXTINF:-1 tvg-id="419290" ch-number="813" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/astropremierleague3.png" group-title="MALAYSIA",813 PREMIER LEAGUE 3
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+https://tunebox.space/error401
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="814.astro" ch-number="814" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/football.png" group-title="MALAYSIA",814 FOOTBALL
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+
+
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="815.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/badminton.png" ch-number="815",815 BADMINTON
+https://tunebox.space/error401
+
+#EXTINF:-1 tvg-id="No.Game.Dummy.Scheduled.us" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/badminton2.png" ch-number="816",816 BADMINTON 2
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
+https://tunebox.space/error401
+
+
+
+
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/asportsplus.png" tvg-id="817.astro",817 SPORT PLUS
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yLiGFCAF1+UGfIcXd36qxA", "kid":"gTUrxH7BF3syHuZawb5/EA" } ], "type":"temporary" } 
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="820.astro" ch-number="820" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bein1.png" group-title="MALAYSIA",820 BEIN SPORTS 1
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="821.astro" ch-number="821" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bein2.png" group-title="MALAYSIA",821 BEIN SPORTS 2
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="822.astro" ch-number="822.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bein3.png",822 BEIN SPORTS 3
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 ch-number="823" tvg-id="823.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/spotv.png",823 SPOTV
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.manifest_type=dash
+#KODIPROP:lnputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dYgj5Oq7bkyMA20HPbRrjA", "kid":"wOGASqHZ/ZxBxBvw9hpfEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="824.astro" ch-number="824" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/spotv2.png",824 SPOTV 2
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7W1n2VPRSwJrJgLPiEZXfg","kid":"Xv0m2lABNjtNb6SpyBKtEA"}],"type":"temporary"}
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="825.astro" ch-number="825" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/eurosport.png" group-title="MALAYSIA",825 EUROSPORT 
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+
+
+#EXTINF: -1 tvg-id="826.astro" group-title="MALAYSIA" ‎ch-number="826" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/wsport.png",826 W-SPORT
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nNXA0eVMIuA12I3Twd/ITA","kid":"AQy7nPGgHq04Bwcw04vHEA"}],"type":"temporary"}
+https://tunebox.space/error401
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="701" ch-number="829" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/unifisports.png" group-title="MALAYSIA",829 UNIFI SPORT 1
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+https://tunebox.space/error401
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="831.astro" ch-number="831" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/golfchannel.png" group-title="MALAYSIA",831 GOLF CHANNEL
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KGObz7XL7o/5yjmPz1v80A", "kid":"cFurXmRbbXyVWIspUg+BEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
+
+
+
+#EXTINF:-1 tvg-id="833.astro" ch-number="833" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/premiersports.png" group-title="MALAYSIA",833 PREMIER SPORT
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bld//MSTW6JK/0xMndaEbQ","kid":"m/61BoclYX261jOEc9ptEA"}],"type":"temporary"}
+https://tunebox.space/error401
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+########
+
+
+
+
+#EXTINF:-1 tvg-id="Animax.sg" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/animax.png" group-title="SINGAPORE" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/singaporelogo3.png",ANIMAX
+https://tunebox.space/error401
+
+
+
+indonesia
+########
+
+
+
+
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" ch-number="100" tvg-name="100" group-title="INDONESIA" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/indonesialogo3.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tunebox.png",TUNEBOX DIGITAL INFO
+https://tunebox.space/error401
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INDIA
+#####
+
+
+
+#EXTINF:-1 tvg-id="Zee Thirai HD.in group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/indialogo3.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/zeethirai.png" group-title="INDIA",ZEE THIRAI
+https://tunebox.space/error401
+
+
+
+
+
+UNITED STATES
+###########
+
+
+
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" ch-number="100" tvg-name="100" group-title="UNITED STATES" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/unitedstates.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tunebox.png",TUNEBOX DIGITAL INFO
+https://tunebox.space/error401
+
+
+
+
+UNITED KINGDOM
+##############
+
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" ch-number="100" tvg-name="100" group-title="UNITED KINGDOM" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/uk.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tunebox.png",TUNEBOX DIGITAL INFO
+https://tunebox.space/error401
+
+
+
+
+KOREA
+######
+
+#EXTINF:-1 tvg-id="416" ch-number="416" tvg-name="tvN Movies HD" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tvnmovies.png" group-title="KOREA" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/korealogo3.png",TVN MOVIES
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
+https://tunebox.space/error401
+
+
+
+
+PINOY
+########
+
+
+
+
+
+#KODIPROP:lnputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:lnputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="CINEMO!.ph" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/cinemo.png" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/philipineslogo3.png" group-title="PHILIPPINES",CINEMO! 
+https://tunebox.space/error401
+
+
+JAPAN
+#####
+
+
+#EXTINF:-1 tvg-id="ＮＨＫ.ＢＳ１.jp" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/japanlogo4.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/nhkbs1.png" group-title="JAPAN", NHK BS1
+https://tunebox.space/error401
+
+
+
+
+
+
+
+THAILAND
+########
+
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV.th" tvg-name="MVTV.th" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/thailand.png" group-title="THAILAND" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/mvtv.png", MVTV ท้องถิ่นไทย (75)
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://tunebox.space/error401
+
+
+
+
+
+
+
+
+TURKI
+#####
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/turk.png" group-title="TURK",beIN SPORTS 1 Turkey
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+CANADA
+#######
+
+#EXTINF:-1 tvg-id="CTV.(CFTO).Toronto,.ON.ca" tvg-name="CTV.(CFTO).Toronto,.ON.ca" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/spain.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="CANADA",CTV Canada
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+
+
+AUSTRALIA
+#########
+
+#EXTINF:-1 tvg-id="Sports.Dummy.us" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/australia.png" tvg-name="Sports.Dummy.us" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="AUSTRALIA",FOX Sports 502 AU
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+GREECE
+######
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/greece.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="GREECE",Cosmote Sport 1 HD
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+
+
+
+GERMANY
+########
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/germany.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="GERMANY",BR Fernsehen DE
+https://tunebox.space/error401
+
+
+
+AFRICA
+######
+
+#EXTINF:-1 tvg-id="CANAL+.1.HD.pl" tvg-name="CANAL+.1.HD.pl" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/africa.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV-2/refs/heads/main/c+sport.png" group-title="AFRICA",Canal+ Sport 1 Afrique
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+POLAND
+#######
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/poland.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="POLAND",Canal+ Sport Poland
+https://tunebox.space/error401
+
+
+
+
+FRANCE
+#######
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/france.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="FRANCE",Canal+ France
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+
+SPAIN
+#####
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/spain.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="SPAIN",Cuatro Spain
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+BULGARIA
+#########
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/bulgaria.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="BULGARIA",BNT 1 Bulgaria
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+
+
+NEW ZEALAND
+############
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/newzealand.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="NEW ZEALAND",Sky Sport 1 NZ
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+DENMARK
+########
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/denmark.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="DENMARK",CANAL9 Denmark
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+PORTUGAL
+#########
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/portugal.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/portugal.png" group-title="PORTUGAL",AXN Movies Portugal
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+
+SPORTS
+#######
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/sportslogo3.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="SPORTS",★★★★★MALAYSIA★★★★★
+https://tunebox.space/error401
+
+
+
+
+
+
+QATAR
+######
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/qatar.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="QATAR",BeIN Sports HD Qatar
+#EXTVLCOPT: http-origin=https://newembedplay.xyz
+https://tunebox.space/error401
+
+
+
+
+SPORT VIP
+#########
+
+
+#EXTINF:-1 tvg-id="dummy" tvg-name="dummy" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/liveevent.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/0000.png" group-title="SPORT VIP",4 HOCKEY
+#EXTVLCOPT: http-origin=https://newembedplay.xyz/
+https://tunebox.space/error401
+
+
+
+
+
+
+
+SAMSUNG TV+
+###########
+
+
+#EXTINF:-1 tvg-id="KRBD2400001XD" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/samsungtvlogo3.png" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20240403T030123SQUARE.png" group-title="SAMSUNG TV+", YT
+https://tunebox.space/error401
+
+
+
+
+
+DOCUMENTARY
+#############
+
+
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" ch-number="100" tvg-name="100" group-title="DOCUMENTARY" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/documentarylogo3.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tunebox.png",TUNEBOX DIGITAL INFO
+https://tunebox.space/error401
+
+
+
+
+
+
+
+
+Movie
+####
+
+
+
+
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" ch-number="100" tvg-name="100" group-title="MOVIES" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/movielogo3.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tunebox.png",TUNEBOX DIGITAL INFO
+https://tunebox.space/error401
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" ch-number="100" tvg-name="100" group-title="KIDS" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/kidslogo3.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tunebox.png",TUNEBOX DIGITAL IN
+https://tunebox.space/error401
+
+
+
+CHINESE MOVIE
+############
+
+
+
+#EXTINF:-1 tvg-id="Movie.Dummy.us" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ondemandlogo3.png" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/tunebox.png" group-title="DOUYU", TUNEBOX INFO
+https://tunebox.space/error401
+
+
+
+
+
+
+
+
+
+
+
+ENTERTAINMENT
+############
+
+
+
+
+#EXTINF:-1 tvg-id="712.astro" ch-number="712" group-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/entertainmentlogo4.png" tvg-name="Warner TV HD" group-title="ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/warnertv.png", WARNER TV MY
+#EXTVLCOPT: http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+#KODIPROP:lnputstreamaddon=inputstream.adaptive
+#KODIPROP:lnputstream.adaptive.license_type=clearkey
+#KODIPROP:lnputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary"
+https://tunebox.space/error401
