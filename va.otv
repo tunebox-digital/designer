@@ -1898,7 +1898,7 @@ CODE:403-FORBIDDEN
 
 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://i.mjh.nz/PlutoTV/all.xml, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz" vod_library="https://tunebox.shop/vod, https://tunebox.shop/addon" refresh="3600" max-conn="1" billed-msg="LANGGANAN HANYA BOLEH DIBUAT MELALUI TELEGRAM ATAU WHATSAPP TUNEBOX DIGITAL DI NOMBOR 011 3109 2605"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://i.mjh.nz/PlutoTV/all.xml, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz" vod_library="https://tunebox.space/vod, https://tunebox.space/addon" refresh="3600" max-conn="1" billed-msg="SELAMAT HARI RAYA AIDILADHA.JGN LUPA REKEMEN TUNEBOX DIGITAL PADA SEDARA MARA JIRAN TETANGGA TUAN².WHATSAPP-01131092605"
 
 MALAYSIA
 #########
@@ -1935,14 +1935,14 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 ch-number="104" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/ria.png" tvg-id="104.astro",104 RIA 
-https://tunebox.space/OYYgM9
+https://tunebox.space/riri
 
 
 #EXTINF:-1 tvg-id="105.astro" ch-number="105" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/prima.png" group-title="MALAYSIA",105 PRIMA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/prima
+https://tunebox.space/pripri
 
 
 #EXTINF:-1 tvg-id="106.astro" ch-number="106" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/oasis.png" group-title="MALAYSIA", 106 OASIS
@@ -1962,7 +1962,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/citra
+https://tunebox.space/citcit
 
 
 
@@ -2239,16 +2239,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-https://tunebox.shop/vvvvv
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="202.astro" ch-number="202" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/vinmeen.png",202 VINMEEN
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2105/default_ott.mpd
+https://tunebox.space/vinvin
 
 
 #EXTINF:-1 tvg-id="203.astro" ch-number="203" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/vellithirai.png",203 VELLITHIRAI
@@ -2332,7 +2328,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+https://tunebox.space/thangathanga
 
 
 
@@ -2377,14 +2373,14 @@ https://tunebox.shop/aaaaa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/aec
+https://tunebox.space/aeae
 
 
 #EXTINF:-1 ch-number="308" tvg-id="308.astro" ch-number=308" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/qj.png",308 QUAN JIA 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89de71cf39be0946dec828edff84d010:9d5e036094bb77cbaf8867d3272c66d0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/quanjia
+https://tunebox.space/quanquan
 
 
 
@@ -2417,7 +2413,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/aod311
+https://tunebox.space/aodaod
 
 
 
@@ -3086,7 +3082,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="803.astro" ch-number="803" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/arenabola.png" group-title="MALAYSIA",803 ARENA BOLA 
-https://tunebox.space/ryKCEg
+https://tunebox.space/bobo1
 
 
 
@@ -3097,7 +3093,7 @@ https://tunebox.space/ryKCEg
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/sPU0sT
+https://tunebox.space/bobo2
 
 
 
@@ -3127,11 +3123,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
 
 
-#EXTINF:-1 ch-number="810" tvg-id="810.astro" group-title="MALAYSIA" ‎ tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/grandstand.png",810 GRANDSTAND
+#EXTINF:-1 ch-number="810" tvg-id="810.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/grandstand.png",810 GRANDSTAND
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/grandstand
+https://tunebox.space/grandgrand
 
 
 
@@ -3197,7 +3193,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="815.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/cvisionnetwork/IKON-SIARAN-IPTV/refs/heads/main/badminton.png" ch-number="815",815 BADMINTON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://tunebox.space/Vjg2vT
+https://tunebox.space/badbad
 
 
 
