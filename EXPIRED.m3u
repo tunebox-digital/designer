@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" group-title="INFO PENGGUNA", INFO
 https://tunebox.space/expired
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" group-title="MOVIES", INFO
-https://raw.githubusercontent.com/tunebox-digital/designer/refs/heads/main/EXPIRED.m3u
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" type="movie", INFO
+https://tunebox.space/expired
 
