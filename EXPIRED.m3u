@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" group-title="INFO", INFO
+https://github.com/tunebox-digital/marketing-video/raw/refs/heads/main/expired.mp4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" group-title="MOVIES", INFO
+https://tunebox.space/error401
+
