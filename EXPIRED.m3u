@@ -1,7 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" group-title="INFO PENGGUNA", INFO
+#EXTM3U vod_library="https://tunebox.space/errorvod"
+#EXTINF:-1 tvg-id="Dummy" group-title="INFO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png",INFO
 https://tunebox.space/expired
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png" type="movie", INFO
-https://tunebox.space/expired
 
