@@ -1,6 +1,6 @@
-#EXTM3U vod_library="https://tunebox.space/expiredvod"
+#EXTM3U vod_library="https://tunebox.space/expiredvod" billed-msg="LANGGANAN HANYA BOLEH DIBUAT MELALUI WHATSAPP ATAU TELEGRAM TUNEBOX DIGITAL DI NOMBOR 011 3109 2605 SAHAJA"
 
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="ACCOUNT DETAILS" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png",YOUR ID STATUS
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="INFO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5683/5683325.png",INFO
 https://tunebox.space/expired
 
 
